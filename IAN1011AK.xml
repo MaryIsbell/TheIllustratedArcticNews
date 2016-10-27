@@ -1,22 +1,23 @@
-/*IAN1011*/
-<head type=main> Illustrated Arctic News </head>
-<head type= sub> N<hi rend= "super">o</hi> 1 "TUTO ET SINE METU" October 31. 1850.</head>
-<p>[graphic of a man on his head with legs spread shaped like a Y]es! <hi rend= underline>The Illustrated Arctic News!</hi></p>
+<!--TIAN1011-->
+<!-- there is a large header image that the title of the newspaper is written in, unsure how to encode -->
+<head type="main"> Illustrated Arctic News </head>
+<head type="sub"> N<hi rend= "super">o</hi> 1 "TUTO ET SINE METU" October 31. 1850.</head>
+<p><figure><figDesc>drawing of a man on his head with legs spread shaped like a Y</figDesc></figure>es! <hi rend= underline>The Illustrated Arctic News!</hi></p>
 <p>Shake thy head as thous wilt good friend- such we intend to be the name of our publication_an aspiring one, no doubt; yet, he that laketh ambition, lacketh all_ and provided our motive be good, what care we for the result.-</p>
-<p>"Thy object friend?" demands Matter of Fact_ Amusement, good dame, is our reply_ We seek to attain no more that we profess_ to reliece the monotony of sunless days_to show to all, that fun + [and] good fellowship, may exist by <hi rend= "underline">Purser's</hi> Moon-light_ that Romance can survive the dense atmosphere of twenty four to the pound_ that in the desolation of Land +[and] Ice around us, the gentle lily Wisdom, can still be outted [maybe?]_ wither in the con-templation of the ruins of an old World, or in the strange, + [and] ever changing phenomena of nature, bywhich we are surrounded;_ and lastly, to keep alive in all our hearts, those sweet recollections ternere and heace, which bind us to our Homes, our Country, and our Friends.-</p>
+<p>"Thy object friend?" demands Matter of Fact_ Amusement, good dame, is our reply_ We seek to attain no more that we profess_ to reliece the monotony of sunless days_to show to all, that fun &amp; good fellowship, may exist by <hi rend= "underline">Purser's</hi> Moon-light_ that Romance can survive the dense atmosphere of twenty four to the pound_ that in the desolation of Land &amp; Ice around us, the gentle lily Wisdom, can still be outted <!-- maybe? -->_ wither in the con-templation of the ruins of an old World, or in the strange, &amp; ever changing phenomena of nature, bywhich we are surrounded;_ and lastly, to keep alive in all our hearts, those sweet recollections ternere and heace, which bind us to our Homes, our Country, and our Friends.-</p>
 <p>And come what will, we shall not travail in cain, if Mirth should be lured to spend a winter on the floe, or that grovelling fellow Care, be banished from our Arctic Circle.</p>
 <p>In conclusion, we have only to add, that as the sucess of the <hi rend= underline>"Illustrated Arctic News"</hi>, must necessarily sepend on the vountary contributions of our readers, we trust that for want of support, it will not become <cb n="2"/> [graphic of a man at a desk with a large W on the wall]E gladly avail ourselces of the kindness of an anonymous correspondent who had forwarded us copies of a series of letters, written by himself to his Friends,_ and to a fair creature, who is, as he assures us_ all soul!_</p>
 <p>We presume, our friend, has the young lady's heart in safe keeping.</p>
 <floatingText><head>Letter N<hi rend="super">o</hi> 1.</head>
     <opener>My Dear Father,</opener>
-    <body><p>We are about to sail for the shores of Lancaster Sound, and to turn our backs on the covilized World for some years;_ Already has our escape from Shipwreck, +[and] destruction been almost miraculous!_ Imagine three Ice-bergs, as big as St Pauls! tilting at each other, and we in our poor Vessels!_ Two Captain's Cox-swains, + [and] three Quarter Masters, became grey-headed en that terrible night! &amp; me it made a wiser, &amp; I trust, a better man_ recalling to my recollection the fact that a small Bill, about £36, is still owing to Looney in Regent Street, ..... for some Cigars, (you remember I told you the Commodore insisted on our smoking) for which Bamble will send you the amount, about Christmas day.</p>
+    <body><p>We are about to sail for the shores of Lancaster Sound, and to turn our backs on the covilized World for some years;_ Already has our escape from Shipwreck, &amp; destruction been almost miraculous!_ Imagine three Ice-bergs, as big as St Pauls! tilting at each other, and we in our poor Vessels!_ Two Captain's Cox-swains, + [and] three Quarter Masters, became grey-headed en that terrible night! &amp; me it made a wiser, &amp; I trust, a better man_ recalling to my recollection the fact that a small Bill, about £36, is still owing to Looney in Regent Street, ..... for some Cigars, (you remember I told you the Commodore insisted on our smoking) for which Bamble will send you the amount, about Christmas day.</p>
         <p>The Officer of my Watch is delighted with my zeal &amp; activity; and appears to enjoy mu company, and Cigars_ I think the Captain regrets he cannot at once promote me; and I'm firmly resolved that the name of ----------------, shall become memorable in the annals of the Arctic Ocean <pb/></p>
         <p>The Gold Repeaters you so kindly gave me, I, on second thoughts could not think of bringing with me_ <hi rend="underline">Fastman</hi>, who keeps the "Bargue" at Woolwich, presented one with asmall [this is weird] Account, at a moment the safety of the ship, required me not to lave the deck, &amp; I therefore gave him the Watch to keep until you called and settled his demand_ The "Brandies" were for the Poliecemen, whom we were obliged to concibiate, and they drink horribly.</p>
         <p>To work is mt sole delight, and being on double pay, I feel called on for double exertion._ I sometimes however accompany a few friends on a shooting ecvursion, in order to study &amp; obtain specimens of Natural History._</p>
         <p>By the bye, the Bill for £12, drawn at the Orkneys, was expended in Oil &amp; Candles, to enable me to read upon carious important sub-jects during the Winter months._</p>
         <p>I am grieved to saym that civili-zation, has made but little progress, among the benighted inhabitants of these regions, Alas! their minds are as barren as the hills which now surround us.</p>
-        <p>I had almost forgotten to inform you, that the Landlady of the Ship &amp; Tower and M<hi rend="superscript">rs</hi>Ethelredffrom whom my frugal supper of Potatoes &amp; Oysters, was nightly obtained/ refused to recieve payment unkil Michaelmas, &amp in my absence will you oblige me, but letting you Agent square the tally?</p>
-        <p>Every blessing attend you, if i fall, remem-ber it is in a good cause.</p>
+        <p>I had almost forgotten to inform you, that the Landlady of the Ship &amp; Tower and M<hi rend="superscript">rs</hi> Ethelredffrom whom my frugal supper of Potatoes &amp; Oysters, was nightly obtained/ refused to recieve payment unkil Michaelmas, &amp; in my absence will you oblige me, but letting you Agent square the tally?</p>
+        <p>Every blessing attend you, if I fall, remem-ber it is in a good cause.</p>
         <fig></fig>
         <p>P.S._ Kilbee and Rails, the wretches, never sent their Accounts in, I do not wish them to excrate my memory.</p>
         <p>The Bergs are breaking in all directions, Hands save Ship!!_ Good Bye_</p>
@@ -37,4 +38,146 @@
     <p>What the carved stone of the Scandana-vian Viking is to the modern antiguary_ so shall in future ages be, the humble Toombstone of the English Seaman_ proods in both alike of hardihood, &amp; energy.</p>
     <graphic>dividing line</graphic>
     <p>The following particulars were<cb/> copied from the head boards of the graves on Beechy Island.</p>
+    <lg><l>Sacred</l>
+        <l>to the</l>
+        <l>Memory of</l>
+        <l>John Harnall[maybe]</l>
+        <l>A.B. of H.M.S.</l>
+        <l>Erebus.</l>
+        <l>died Jan. 4<hi rend="superscript">th</hi>1846</l>
+        <l>aged 25 years</l>
+        <l>Haggai_ C 1 V 1</l>
+        <l>"This saith the Loed of Hosts"</l>
+        <l>'Consider your ways'</l>
+    </lg>
+    <!-- divided into another column -->
+    <lg><l>Sacred</l>
+        <l>to the</l>
+        <l>Memory of</l>
+        <l>W. <gap reason="indesipherable" quantity="6" unit="chars"/> R.M.</l>
+        <l>H.M.S. Erbus</l>
+        <l>died March 3<hi rend="superscript">rd</hi>/46.</l>
+        <l>32 years.</l>
+        <figure><figdesc>A small dividing line.</figdesc></figure>
+        <l>"Choose you thus day, whom</l>
+        <l>ye will serve"</l>
+        <l>Joshua C 24 part of 15<hi rend="superscript">th</hi>verse</l>
+    </lg>
+    <lg><l>Sacred</l>
+        <l>to</l>
+        <l>the memory of</l>
+        <l>John Torrington,</l>
+        <l>who departed</l>
+        <l>this</l>
+        <l>life, January 1<hi rend="superscript">st</hi></l>
+        <l>A.D. 1846</l>
+        <l>on board of</l>
+        <l>H.M.S. Terror:</l>
+        <l>aged 20 years</l>     
+    </lg>  
+</div>
+<div type="songs">
+    <!-- there is a illustrated divider of two large ships and a row boat in the forground with three ships in the back ground and icebergs surronding.-->
+    <figure>A crown with two british flage crossed coming out the tip and the entire image is encircled in a wreath.</figure>
+    <head>SONGS OF THE NORTH.<lb/>
+    Dedicated to M<hi rend="superscript">rs</hi> Austin<lb/>
+    By the Authors.<lb/>
+    <figure>small dividing line</figure><lb/>
+    N.<hi rend="superscript">o</hi>1._ The Traveller's Evening Song,<lb/>
+    Air._ As slow as out Ship.
+    </head>
+    <figure>small divinging line that ends the heading and breaks up two stanzas of a song. Shaped like and I</figure>
+    <lg><l>When last we saw our Shipmates kins,</l>
+        <l>And heard their farewill gretting,</l>
+        <l>Though loath to leave them all behind,</l>
+        <l>We hope a joyful meeting;</l>
+        <l>Ans trust to see our Ship once more,</l>
+        <l>That o'er the Ocean bore us;</l>
+        <l>And cheer the Friends, who now deplore,</l>
+        <l>The fate of those before us.</l>
+    </lg>
+    <lg><l>When of the joys of home we think,</l>
+        <l>One lovely face xomes cheering,</l>
+        <l>A sweet voice whispers_ do not shrink!</l>
+        <l>The absent you are nearing!</l>
+        <l>With hope renewed, then on we go,</l>
+        <l>England must not blush for us!</l>
+        <l>And with fresh vigour cross the flow,</l>
+        <l>In search of those before us.</l>
+    </lg>
+    <lg><l>And whilst this dreary waste we roam,</l>
+        <l>May conscience oft' remind us,</l>
+        <l>What rapture will be felt at home,</l>
+        <l>By those we've left behind us;</l>
+        <l>If with sucess our hopes are crown'd,</l>
+        <l>And fortune should restore us,</l>
+        <l>To Britain's shore, with those we've found,</l>
+        <l>Our Comrades gone before us.</l>
+    </lg>
+<signed>C. F. M<hi rend="superscript">c</hi> D.</signed> <!-- This is written in kind of a subscript and a mock typeface as if attributing to an author -->
+</div><pb/>
+<div type="article"><!-- not 100% sure if this counts as an article or if we need to make a new attribute called editors protfilio -->
+    <figure>Three ships stuck in the ice with teams of men dragging sleighs full of ice bricks. Also seems to be done by CFMcD</figure>
+    <head type="main">DEPARTURE OF THE TRAVELLING PARTIES.</head>
+    <head type="sub">Editors Portfolio.</head>
+    <figure>Small boy or court jester dressed like a sailor with a ruffle collar holding a hoop and stick. The hoop makes the shape of an O.</figure>
+    <p>N the morning of the 2<hi rend="superscript">nd</hi> Ins<hi rend="superscript">t</hi> Lieut<hi rend="superscript">t</hi> Aldrich, with six men, and one Sledge, left for Sommerville Islanf, with a view from a depot towards Cape Walker _ Lieut<hi rend="superscript">t</hi> M<hi rend="superscript">c</hi>Clintock + D<hi rend="superscript">r</hi>Bradford, with twelve men + four Sledges, started at the same time, in order to deposit provisions, as far as possible on the line of route to Melville Island._</p>
+    <p>M<hi rend="superscript">r</hi>Cheyne with 1 Sledge, + six men, as a fatigue party, accompanied the above Officers to assist in drawing the Sledges a day's juorney_</p>
+    <p>Lieut<hi rend="superscript">t</hi>Mecham + M<hi rend="superscript">r</hi>Ede, with a lightly equipped party, finishes the Examination of the South Coast of Cornwallis Isl<hi rend="superscript">d</hi> between Capes Hotham + Martyr.</p>
+    <p>Heartily did we give them a Sailors "God Speed"! in cheers as in the highest possible spirits, they commenced their laborious march.</p>
+    <figure>Double centered dividing line.</figure>
+</div>
+<div type="article"><!-- this article had no title or anything. Just a double dividing line between the previous article -->
+    <p>We gladly insert the following extacts of a Skeleton journal, kept by an Officer during his absence with one of the late Travelling parties._</p>
+    <figure>double dividing line</figure><!-- wait does this mean they found this from on of the Erebus crew expiditions? -->
+    <p>Oct<hi rend="superscript">r</hi> 2<hi rend="superscript">nd</hi>_ 7 A.M. _ Having stowed Sledges with pemmican, pork, and pipes, <gap reason="indesipherable"/>_ with Tea and Tommy_ left the Ship,_ <gap reason="indesipherable"/> Cheered_ Too full_ feelings I mean_ to<cb n="2"/> return the Compliment.</p>
+    <p>6 P.M._ Struck Tent, and a light, commenced smoking_ Baccy spoily by Boreas_ Took Tea, and truned in, thought of the time when I revelled in Tea, Toast, Tarts, +Testament, or Sherry, Scandal, Songs, +Sentiment. Took to the bottle + bag_ Slept + Snored as usual; although Cold + Comfortless_ Ther<!-- there is something weird going on here --> 10°</p>
+    <p>11 P.M_ Dreaming of Dolly_ Water made in_ we made off_ thought of Childhood's Copyslip, referring to Time + Tide._</p>
+    <p>Oct<hi rend="superscript">r</hi> 3<hi rend="superscript">rd</hi>_ Awoke, horribly hot, Ther-17° Coca and Conversation_ Had a Slide and smoke_ Noon, dined_ digested ditto by draggins.</p><figure>Dividing line.</figure>
+    <p>The M.S.S. here ceases in consequence of the Ink having become solid, an evil which might have been remedied, had not the pencils been already used for fuel._</p><figure>Doubled line.</figure>
+</div>
+<div><head>CONSOLATION TO A CAPTIVE FOX.</head>
+    <figure>A fox that actually looks more like a horse with a collar chained to a post.</figure>
+    <p>Poor Reynard! like they reputation, Thy life, is not worth a fig_ Thou art collar'd_at their next collation, They'll serve thee like a collar'd Pig._<pb/></p>
+</div>
+<div><head>ARCTIC THEATRICALS.</head>
+    <figure>A woman sutting at a small table next to a fireplace. There is a teapot and cup on the table and a tea kettle spouting steam on the fire. In the steam there is the letter T.</figure>
+<p>HE Intrepod Royal Saloon was on Thursday honored with the presence of the principal personages in these realms.</p>
+    <p>The performances consisted of a series of songs, sung by accomplished Vocalists, and a pathetic recitation or two, so admirably delivered, as to cause all the handkercheifs to be put in requisition, that had not previously been stolen by some loose characters at the door, who had <cb/> suveeded in gaining admottance, notwithstanding the vigilance of our active police force_ All the arrangements were admirably carried out, and the compant sepaeated at a late hour, highly gratified with their evening's amusement_ We hope the good example thus shown, will be followed by the other Ships of the Arctic Squadron, and although a "floe" exists between us, we shall always be happy to contribute our mite towards forwarfing such a desirable object._</p>
+</div>
+<figure>Large central image of a man sleeping on a hammock dreaming about fancy dinners, balls, and horse races. A bearded man in a hat shines a lantern on the sleeping man's face.</figure>
+<caption><head type="main">THE DREAM _ MIDNIGHT _ MIDDLE WATCH.</head>
+    <head type="sub">Quarter Master _ "It's 12 o'Clock Sir" _ blowing hard and snowing heavilty.</head></caption>
+<div><head type="main">LITERATURE.</head>
+    <head type="sub">The Arctic Periodicals;_</head>
+    <p>We have perused with great interest the three numbers of a charming<!-- There is a weird smudge mart thing in the middle of this word --> periodical;_ "The Aurora Borealis" conducted by the Officers of Assistance + Intrepid._ We cannot speak too highly of its contents, which are at once amusing + instructive, and we look forward with pleasure to its next appearance.</p>
+    <p>Like its great namesake, which <!-- the beginning of the word is a little cut off but from what is seen and the context I feel as though I can safely assume it is during -->during the dark rigours of and Arctic <!-- the beginning of the word is a little cut off but from what is seen and the context I feel as though I can safely assume it is Winter -->Winter,_ illumines with lustrous rays of <!-- the beginning of the word is a little cut off but from what is seen and the context I feel as though I can safely assume it is light -->light, the dreary waster of these inhospitable <cb/>regions, so our cotemporary, with its brilliant corruscations of wit and pointed pencillings, will wnliven the dull solitude of our winter, and under its benign influence dispel dark despondency from our minds.</p><figure>Double dividing line.</figure>
+</div>
+<div><head>LAURA GLAUCUS, LEAVES THE "RESOLUTE" AND DIES ON BOARD THE "ASSISTANCE."</head>
+    <figure>Small drawing of a litttle white bird.</figure>
+    <lg><l>Laura Glaucus why did'st roam_</l>
+        <l>And die midst strangers at a distance_ </l>
+    <l>Alas! why not remain at home_</l>
+    <l>And earn thy bread without Assistance.</l></lg><pb/>
+</div>
+<div><head>PARODY ON THE LEGACY.</head>
+    <figure>A tent with a man peeking out the flap. In front of the tent there is a man bent over a box that is either taking something out or putting something away. There is the shadowy figure of a man standing behind/ next to the tent.</figure> <!-- I think these might be poems too, but I can't tell -->
+    <p>When in a Tent, on my back I recline, I sign, and with hunger exclaim Oh dear! I'm obliged to forego both beer, and wine, And <hi rend="underline">luxurie</hi> all, whilst I linger here;_ When hungry, and cold, alas! to my sorrow, I cannot forget our soft tack so light, And to soothe my feelings, I'm forced to borrow, Ans drink in advance, my Rum for the night.</p>
+    <figure>dividing line</figure>
+    <p>When the light supper and song are o'er, I sleep, and then dream of my Father's hall, But hang it, the snow comes in at the door, And the outside man, won't answer my call;_ Then if some Bear, that roams forsken, Should our pemmican smell in passing along, I have only to bawl out "a Bruin" to waken, All the hands, who frighten him off with a song.</p>
+    <figure>Dividing line.</figure>
+    <p>When at Morn I awake, and with tin pot o'erflowing With Coca_ My fast I break with the rest, Contented I feel_ not a sad thought bestowing, On privation or care_ but think myself blest;_ For the Cup of pure joy_ I have as a lover, Seen filled by my maid, <hi rend="underline">almost</hi> to the brim, And whilst I am absent, young Cupid will hover, Around me, whilst I prove constant to him.</p> 
+    <signed>C.F M<hi rend="superscript">c</hi> D.</signed>
+    <figure>Double dividing line.</figure>
+</div>
+<div>
+<head>CAPT<hi rend="superscript">N</hi> PENNY'S EXPEDITION.</head>
+    <figure>Illuminated letter. Asian looking man with long, thin moustache and single braid wearing baggy peasent clothes in stockade shaped like the lettter 'T'</figure><p>HE arrival and departure of Captain Penny has been another break in the monotony of the past month_ Our gallant coadjutor, arrived on Thursday the 17 <hi rend="superscript">th</hi> inst in his Carriage and wight, from his winter quarters_  a distance of twenty-four miles, which he accomplished in four hours + a half.</p>
+    <p>He looked as well as his best friend could desire, and broughtthe gratifying intelligence that the Officers and Crews of the Brigs "Lady <cb/>Franklin, and Sophia, were in good health and high spirits, and that the veteran Arctic Navigator_ Sire John Ross, as well as his gallant comrade Captain Phillips, looked forward as cheerfully as the youngest of us to a merry Cheistmas, and a happy New Year.</p>
+    <figure>Image of two figures sittling in a papuse-like dog sled near a ice floe. The figure in the background holds a whip high.</figure>
+</div><pb/>
+<div>
+    <figure>Cartoon-esqe banner image. Multiple figures with rifles some on an iceberg to the right, others on boats and ice in the background. One laying flat on the ice and two others on a small sail boat in the foreground. In the center, a seagull. All the shooters are facing different directons and most as nowhere near the gull in the water.</figure>
+<head>STRAY SHOTS.</head>
+    <p>Our great Guns, ought to pay a tribute, Unless they sporting news contribute_ Relate discreetly, what befel The ducks and drakes at seventh <!-- the h is a little faded, but readable --> </p>
 </div>
